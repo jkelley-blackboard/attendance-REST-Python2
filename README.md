@@ -7,10 +7,12 @@ Usage:
 -- batch_attendance.py propertiesfile.ini listofcourses.csv outputfile.txt
 
 Accepts a text file with 1 course ID per line
-Returns a pipe delimited file of attendance records (outputfile.txt)
+and returns a pipe delimited file of attendance records (outputfile.txt)
 
 Requires role with system priviliges:
 
-Administrator Panel (Users) > Users > Edit > View Course Enrollments
-Course/Organization Control Panel (Tools) > Attendance > View Attendance
-Administrator Panel (Users) > Users
+--Administrator Panel (Users) > Users > Edit > View Course Enrollments
+
+--Course/Organization Control Panel (Tools) > Attendance > View Attendance
+
+--Administrator Panel (Users) > Users
