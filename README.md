@@ -1,4 +1,5 @@
 # attendance-REST-Python2
+jeff.kelley@blackboard.com - provided without explict or implied support or waranty from me or Blackboard
 
 Python 2.7 based script to generate attendance records from list of course_IDs
 
